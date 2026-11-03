@@ -4,11 +4,40 @@ description: Turn financial and operating spreadsheets into judgment-rich narrat
 version: 1.0.0
 author: RAY
 license: CC-BY-4.0
-tags: [finance, business-analysis, management-reporting, data-storytelling, kpi]
+tags: "[finance, business-analysis, management-reporting, data-storytelling, kpi]"
 metadata:
-  pricing: $29 / one-time (multi-sheet attribution + board-pack mode $79)
-  category: business-intelligence
-  audience: finance-teams, founders, operations-managers
+
+pricing:
+  free: Free — 1 single-sheet read/month
+  pro: $29/month — multi-sheet attribution + board-pack mode
+  annual: $290/year
+  pay_per_use: $19 one-time (deep read)
+  enterprise: $199/month (enterprise templates + dashboard copy)
+tiers:
+  - id: free
+    name: Free
+    price: Free
+    quota: Free — 1 single-sheet read/month
+  - id: pro
+    name: Pro Monthly
+    price: $29/month — multi-sheet attribution + board-pack mode
+    quota: unlimited
+  - id: annual
+    name: Pro Annual
+    price: $290/year
+    quota: unlimited
+  - id: enterprise
+    name: Enterprise
+    price: $199/month (enterprise templates + dashboard copy)
+    quota: team unlimited
+monetization:
+  model: freemium_subscription
+  currency: USD
+  paywall_trigger: free quota exhausted
+  trial_days: 7
+  free_trial: true
+  upgrade_path: Pro Monthly -> Pro Annual -> Enterprise
+
 ---
 
 # Business Analysis Narrator
