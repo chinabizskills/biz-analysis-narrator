@@ -4,9 +4,7 @@ description: Turn financial and operating spreadsheets into judgment-rich narrat
 version: 1.0.0
 author: RAY
 license: CC-BY-4.0
-tags: "[finance, business-analysis, management-reporting, data-storytelling, kpi]"
-metadata:
-
+tags: [finance, business-analysis, management-reporting, data-storytelling, kpi]
 pricing:
   free: Free — 1 single-sheet read/month
   pro: $29/month — multi-sheet attribution + board-pack mode
@@ -39,7 +37,6 @@ monetization:
   upgrade_path: Pro Monthly -> Pro Annual -> Enterprise
 
 ---
-
 # Business Analysis Narrator
 
 ## What problem it solves
