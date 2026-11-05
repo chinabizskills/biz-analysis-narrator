@@ -18,7 +18,7 @@ Turn financial and operating spreadsheets into judgment-rich narratives for mana
 
 ## Pricing
 
-Free (CC BY 4.0) on GitHub & skills.sh. Curated bundle on Gumroad: $29 (Pro $79).
+Free (CC BY 4.0) on GitHub & skills.sh. Pro $29/month · Pro Annual $290/year · Enterprise $199/month on Agensi: https://www.agensi.io/skills/business-analysis-narrator
 
 ## Known Risks and Mitigations
 
