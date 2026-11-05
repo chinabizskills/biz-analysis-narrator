@@ -3,7 +3,7 @@
 > Turn financial and operating spreadsheets into judgment-rich narratives for management — variance attribution (price vs. volume), trend interpretation, three-line risk warnings, and action recommendations with owners and verification metrics.
 
 **Category:** business-intelligence  |  **License:** CC-BY-4.0  |  **Version:** 1.0.0
-**Price:** Free on GitHub & skills.sh (CC BY 4.0). Curated bundle on Gumroad: $29 (Pro $79).
+**Price:** Free on GitHub & skills.sh (CC BY 4.0). Pro & Enterprise on Agensi: $29/month · $290/year · $199/month.
 
 ## What it does
 
@@ -37,7 +37,19 @@ Or clone: `git clone https://github.com/chinabizskills/biz-analysis-narrator.git
 
 ## Pricing & license
 
-Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required). A curated, expanded bundle (with the Pro templates) is sold on Gumroad for $29 (Pro $79). The free GitHub/skills.sh version is the complete, working skill.
+Free on GitHub & skills.sh under **CC BY 4.0** — the complete core workflow, free to use, share and adapt (attribution required).
+Pro and Enterprise are subscriptions on Agensi:
+
+| Tier | Price | What you get |
+|---|---|---|
+| Free | $0 | 1 single-sheet read/month |
+| Pro Monthly | $29/month | multi-sheet attribution + board-pack mode |
+| Pro Annual | $290/year | Same Pro benefits, billed yearly |
+| Enterprise | $199/month | enterprise templates + dashboard copy |
+
+Subscribe: https://www.agensi.io/skills/business-analysis-narrator
+
+Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required).
 
 ## Tags
 
