@@ -12,7 +12,6 @@
 | **Pro Monthly** | **$29/month — multi-sheet attribution + board-pack mode** | Unlimited + full Pro pack + export + template library |
 | Pro Annual | $290/year | Same Pro benefits, annual discount |
 | Enterprise | $199/month (enterprise templates + dashboard copy) | Team unlimited + enterprise templates |
-| Pay per use | $19 one-time (deep read) | Zero-friction entry for low-frequency users |
 
 ## 2. Pricing skeleton
 
@@ -24,7 +23,7 @@ predictable revenue, heavy-user value captured.
 ```text
 Free tier (Free — 1 single-sheet read/month)
   → quota exhausted -> paywall prompt
-  → 7-day free trial (no card required)
+  → subscribe on Agensi: https://www.agensi.io/skills/business-analysis-narrator
   → Pro Monthly $29/month — multi-sheet attribution + board-pack mode
   → Pro Annual $290/year
   → Enterprise $199/month (enterprise templates + dashboard copy)
@@ -32,8 +31,6 @@ Free tier (Free — 1 single-sheet read/month)
 
 ## 4. Success metrics (3 months)
 
-- Free → trial ≥ 15%
-- Trial → paid ≥ 25%
 - Monthly retention ≥ 60%
 - NPS ≥ 45
 
